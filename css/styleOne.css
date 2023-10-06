@@ -16,8 +16,8 @@ h1{
 }
 h2{
     font-weight: 300;
-    color: #616f55;
-    background-color: rgba(255, 255, 255, 0.25);
+    color: #fff;
+    background-color: rgba(97, 111, 85,0.5);
     font-size: 55px;
     text-transform: uppercase;
     text-align: center;
@@ -98,7 +98,7 @@ header nav ul li a{
 #hero-image{
     height: 580px;
     padding-top: 1px;
-    background: #e8eced url(../img/plantas.jpg) center;
+    background: #e8eced url(../img/gatito.jpg) center;
     background-size: cover;
 }
 #hero-image h2{
@@ -106,14 +106,14 @@ header nav ul li a{
 }
 #hero-image a:hover{
     text-decoration: none;
-    color: rgb(255, 255, 255, 0.50);
+    color: rgb(192, 178, 178);
 }
 .button-1{
     display: block;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.30);
+    background-color: rgba(97, 111, 85,0.5);
     border-radius: 3px;
-    color: #616f55;
+    color: #ffffff;
     width: 180px;
     height: 50px;
     font-size: 20px;
@@ -121,7 +121,7 @@ header nav ul li a{
     margin: auto;
 }
 .button-1:hover{
-    background-color: #616f55;
+    background-color: rgba(255, 255, 255, 0.30);
 }
 
 /*Features*/
