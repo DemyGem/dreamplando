@@ -152,3 +152,74 @@ header nav ul li a{
 #secondary-content article:first-child{
     margin-right: 20px;
 }
+#secondary-content article .overlay{
+    background-color: rgba(255, 255, 255, 0.95);
+    height: 230px;
+    width: 190px;
+    padding: 20px;
+}
+article h4{
+    border-bottom: 1px solid #616f55;
+    padding-bottom: 20px;
+}
+.more-link{
+    border: 1px solid #616f55;
+    color: #616f55;
+    padding: 6px 20px;
+    border-radius: 3px;
+}
+.more-link:hover{
+    background-color: #616f55;
+    color: #fff;
+}
+
+/*CTA (Call to Action)*/
+#cta{
+    padding: 60px 0;
+    text-align: center;
+}
+#cta h3{
+    display: block;
+    margin: 0 auto 20px auto;
+    width: 400px;
+    border-bottom: 1px solid #616f55;
+    padding: 0 0 20px 0;
+}
+.button-2{
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #616f55;
+    color: #616f55;
+    border-radius: 3px;
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+}
+.button-2:hover{
+    background-color: #616f55;
+    color: #fff;
+}
+
+/*Footer*/
+footer{
+    padding: 60px 0;
+    background-color: f8fafa;
+}
+#footer-info{
+    width: 380px;
+    float: left;
+    margin-top: 10px;
+}
+#footer-links{
+    width: 520px;
+    float: right;
+}
+#footer-links ul{
+    width: 150px;
+    float: left;
+    margin-left: 20px;
+}
+#footer-links ul li{
+    margin: 10px 0;
+}
